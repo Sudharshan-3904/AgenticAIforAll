@@ -8,10 +8,10 @@
 
 | Task                                                                      | Category         | Notes                                  | Status |
 | ------------------------------------------------------------------------- | ---------------- | -------------------------------------- | ------ |
-| Define core use cases (e.g., schedule meeting, email summary, CRM update) | Product Planning | Align on user goals                    |        |
-| Design system architecture (API flows, token handling)                    | Architecture     | Refer to earlier diagram               |        |
-| Set up GitHub repo, branches, CI/CD                                       | DevOps           | Basic workflow setup                   |        |
-| Choose tech stack (Node.js, Python, LangGraph, etc.)                      | Architecture     | MCP requires Python or LangChain stack |        |
+| Define core use cases (e.g., schedule meeting, email summary, CRM update) | Product Planning | Align on user goals                    | Done   |
+| Design system architecture (API flows, token handling)                    | Architecture     | Refer to earlier diagram               | Done   |
+| Set up GitHub repo, branches, CI/CD                                       | DevOps           | Basic workflow setup                   | Done   |
+| Choose tech stack (Node.js, Python, LangGraph, etc.)                      | Architecture     | MCP requires Python or LangChain stack | Done   |
 
 ---
 
@@ -29,8 +29,6 @@
 ---
 
 ## 🧰 Phase 3: MCP Tool Server Development
-
-F
 
 ### 🔹 Tasks
 
