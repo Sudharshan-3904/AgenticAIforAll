@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 from google_auth_oauthlib.flow import Flow
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
+os.environ['OAUTHLIB_INSECURE_TRANSPORT'] = '1'
 
 load_dotenv()
 CLIENT_ID = os.getenv("GOOGLE_CLIENT_ID")
